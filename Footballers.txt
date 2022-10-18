@@ -1,0 +1,14 @@
+Angel Di Maria;Midfielder;Paris SG;Argentine
+Cesc Fabregas;Midfielder;AS Monaco;Spanish
+Cristiano Ronaldo;Forward;Juventus;Portuguese
+Eden Hazard;Midfielder;Real Madrid;Belgian
+Edinson Cavani;Forward;Paris SG;Uruguayan
+Gareth Bale;Midfielder;Real Madrid;Welsh
+Lionel Messi;Forward;Barcelona;Argentine
+Luis Suarez;Forward;Barcelona;Uruguayan
+Marco Reus;Forward;Borussia Dortmund;German
+Miralem Pjanic;Midfielder;Juventus;Bosnian
+Sergio Aguero;Forward;Manchester City;Argentine
+Thiago Silva;Defender;Paris SG;Brazilian
+Thibaut Courtois;Goalkeeper;Real Madrid;Belgian
+Zlatan Ibrahimovic;Forward;AC Milan;Swedish

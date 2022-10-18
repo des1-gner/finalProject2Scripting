@@ -1,0 +1,14 @@
+Barcelona FC;Soccer;Barcelona, Spain;1899
+Bayern Munich;Soccer;Munich, Germany;1900
+Chicago Bulls;Basketball;Chicago, USA;1966
+Collingwood FC;AFL;Melbourne, Australia;1892
+Golden State Warriors;Basketball;San Francisco, USA;1946
+Hawthorn FC;AFL;Melbourne, Australia;1902
+Juventus FC;Soccer;Turin, Italy;1897
+Liverpool FC;Soccer;Liverpool, England;1892
+Los Angeles Lakers;Basketball;Los Angeles, USA;1947
+Melbourne Storm;Rugby;Melbourne, Australia;1997
+New England Patriots;NFL;Boston, USA;1960
+Philadelphia 76ers;Basketball;Philadelphia, USA;1946
+Richmond FC;AFL;Melbourne, Australia;1885
+Western Bulldogs;AFL;Melbourne, Australia;1877

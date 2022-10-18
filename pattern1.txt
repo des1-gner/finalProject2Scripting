@@ -1,0 +1,5 @@
+Angel Di Maria;Midfielder;Paris SG;Argentine
+Cesc Fabregas;Midfielder;AS Monaco;Spanish
+Eden Hazard;Midfielder;Real Madrid;Belgian
+Gareth Bale;Midfielder;Real Madrid;Welsh
+Miralem Pjanic;Midfielder;Juventus;Bosnian

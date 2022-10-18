@@ -1,0 +1,5 @@
+Collingwood FC;AFL;Melbourne, Australia;1892
+Hawthorn FC;AFL;Melbourne, Australia;1902
+Melbourne Storm;Rugby;Melbourne, Australia;1997
+Richmond FC;AFL;Melbourne, Australia;1885
+Western Bulldogs;AFL;Melbourne, Australia;1877
