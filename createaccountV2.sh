@@ -1,30 +1,35 @@
 #!/bin/bash
 
 # Inspected by Oisin Aeonnn s3952320 F2GA on 17/10/2022. 
-# Total number of errors found: 4 these found errors are accompanied by a comment that goes into detail about the gategory, description and solution for the code.
+# Total number of errors found: 5 these found errors are accompanied by a comment that goes into detail about the gategory, description and solution for the code.
 
 # for clarity lengthened variables (code cleanliness)
+
 read -p "Enter Username: " username
 
 read -p "Enter Password: " password
 
-# Error 1: Does not include group assignment...
+# Error 1: Does not include group variable
 read -p "Enter Group: " group
 
-# Error 2: Requires Sudo -S 
-# Error 3: Removal of syntax errors
-# Error 4: Does not use or another administrator password to authorise 
-# User@dd /bin/bash $user and
-# passwd $password change to 
-# my password is a spacebar just for simplicity...
-# user and group creation and assignment
 
-# User Creation
+
+# Error: User Creation
+# Error 2: Removal of syntax errors
+# Error 3: Requires -s and -m options for user add
+# User@dd /bin/bash $user changed to: 
 echo " " | sudo -S useradd -m -s /bin/bash $username 
-# Password Configuration
+
+
+# Error: Password Configuration
+# Error 3: Uses another administrator password to authorise 
+# passwd $password change to: 
 echo "$username:$password" | sudo -S chpasswd 
-# Group Creation
+# NOTE: My password is a spacebar just for simplicity...
+
+# Error: User and group creation and assignment
+# Error 4: Did not include Group Creation
 echo " " | sudo -S groupadd $group
-# Group Assignment
+# Error 5: Did not include Group Assignment
 echo " " | sudo -S usermod -G $group $username
 
